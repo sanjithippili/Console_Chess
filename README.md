@@ -24,3 +24,7 @@ This is a **console-based chess game** developed in **C**, providing an interact
 
 - **Use of Arrays**  
   **Arrays** are employed to manage the chessboard layout, store the positions of all pieces, and track the game state. This allows for efficient movement and manipulation of pieces during the game.
+
+- **Application**  
+  **Exe** file provided for quick access to play the game instantly
+## Thank you 
