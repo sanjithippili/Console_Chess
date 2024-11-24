@@ -11,7 +11,7 @@ This is a **console-based chess game** developed in **C**, providing an interact
   After every move, the chessboard and pieces are updated and displayed in the console, providing an up-to-date visual representation of the game state.
 
 - **Special Moves**  
-  The game supports traditional chess moves such as castling and en passant, making the game more authentic and exciting.
+  The game supports traditional chess moves such as castling and en passant, and pawn promotion making the game more authentic and exciting.
 
 - **Game Status Notifications**  
   The application notifies players when the game reaches important milestones like check, checkmate, or stalemate, ensuring that players are always aware of the current game status.
